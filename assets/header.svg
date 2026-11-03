@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">Wissem — Software development</title>
+  <desc id="desc">AI tools, business applications and interactive web. Python, TypeScript and React.</desc>
+  <rect width="1280" height="300" rx="18" fill="#101916"/>
+  <g fill="none" stroke="#263a32" stroke-width="1">
+    <path d="M860 0v300M940 0v300M1020 0v300M1100 0v300M1180 0v300M780 70h500M780 150h500M780 230h500"/>
+    <circle cx="1020" cy="150" r="108"/><circle cx="1020" cy="150" r="72"/>
+  </g>
+  <path d="M850 230 940 150 1020 150 1100 70 1200 70" fill="none" stroke="#b3edb3" stroke-width="3"/>
+  <g fill="#b3edb3"><circle cx="940" cy="150" r="6"/><circle cx="1020" cy="150" r="6"/><circle cx="1100" cy="70" r="6"/></g>
+  <text x="58" y="64" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="3" fill="#b3edb3">SOFTWARE DEVELOPMENT</text>
+  <text x="54" y="147" font-family="Arial,Helvetica,sans-serif" font-size="72" font-weight="700" letter-spacing="-3" fill="#f5f5ed">Wissem.</text>
+  <text x="58" y="197" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#cad4cd">AI tools. Business apps. Interactive web.</text>
+  <text x="58" y="250" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="1" fill="#91a799">PYTHON / TYPESCRIPT / REACT</text>
+</svg>

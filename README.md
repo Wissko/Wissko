@@ -9,7 +9,7 @@ I build tools that connect software to everyday workflows: voice assistants in P
 
 | Project | What to explore | Technical focus |
 | :--- | :--- | :--- |
-| **[Lowkey — voice assistant](https://github.com/Wissko/jarvis-assistant-vocal)** | A personal French/English assistant with local and cloud backends, an extensible tool registry and MCP integration. | Python, speech processing, tool execution, permissions |
+| **[Lowkey — voice assistant](https://github.com/Wissko/jarvis-assistant-vocal)** | A fork of [sosoj92/jarvis-assistant-vocal](https://github.com/sosoj92/jarvis-assistant-vocal), a French/English voice assistant with local and cloud backends, an extensible tool registry and MCP integration. | Python, speech processing, tool execution, permissions |
 | **[TBS Dashboard](https://github.com/Wissko/tbs-dashboard)** | A custom-order management application with authentication, tenant-scoped data, email workflows and Stripe Connect code. | Next.js, TypeScript, Supabase, SQL, server actions |
 | **[AXION](https://github.com/Wissko/axion)** · [Demo](https://axion-orcin.vercel.app) | An editorial product showcase with client-rendered 3D models and animated sections. | React Three Fiber, Three.js, Framer Motion |
 | **[Coffeeish](https://github.com/Wissko/coffeeish)** · [Demo](https://coffeeish.vercel.app) | A café website with scroll-driven SVG transitions, shared navigation and page animation. | Next.js, GSAP / ScrollTrigger, SVG, responsive UI |

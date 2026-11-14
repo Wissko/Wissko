@@ -1,11 +1,23 @@
 ![Wissem — Software development, AI tools and interactive web](assets/header.svg)
 
-I build tools that connect software to everyday workflows: voice assistants in Python, business applications with Next.js and Supabase, and interactive web experiences.
+I build practical software: local tools that respect privacy, testable AI agent systems,
+business applications and interactive web experiences.
 
 **Core stack:** Python · TypeScript · React · Next.js · PostgreSQL / Supabase  
 **Also in my projects:** MCP · speech processing · API integrations · GSAP · Three.js
 
-### Start here
+### Open source — start here
+
+| Project | What it does | Explore |
+| :--- | :--- | :--- |
+| **[Partage Clair](https://github.com/Wissko/partage-clair)** | Prepare PDFs and images for sharing, offline: remove embedded metadata and manually cover sensitive areas with opaque pixel masks. French desktop interface and CLI; no account or telemetry. Early prototype, not independently security audited. | [Privacy model](https://github.com/Wissko/partage-clair/blob/main/docs/PRIVACY.md) · [Tests](https://github.com/Wissko/partage-clair/tree/main/tests) · MIT |
+| **[Aegis Paper Lab](https://github.com/Wissko/aegis-paper-lab)** | Agent-control research with persistent quotas, a SQLite audit trail, restart recovery and an offline synthetic demo. Market activity is simulated; no real-order connector. | [Execution policy](https://github.com/Wissko/aegis-paper-lab/blob/main/src/policy.mjs) · [32 tests](https://github.com/Wissko/aegis-paper-lab/tree/main/test) · MIT |
+
+I'm starting with small, useful releases and reproducible examples. Contributions and
+synthetic bug reports are welcome through each project's issues and contribution guide.
+Never attach personal documents or credentials to a public issue.
+
+### Selected applications and creative web
 
 | Project | What to explore | Technical focus |
 | :--- | :--- | :--- |
